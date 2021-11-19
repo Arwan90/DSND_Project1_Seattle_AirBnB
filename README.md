@@ -9,15 +9,20 @@
  * Tools used
 
 #### General Information
-This project analyze a seattle Airbnb dataset using python
+This project analyzes a seattle Airbnb dataset using python
 
 #### Dataset used
-The dataset was retrieved from Kaggle (https://www.kaggle.com/airbnb/seattle)
+Seattle Airbnb | The dataset was retrieved from Kaggle (https://www.kaggle.com/airbnb/seattle)
 
 #### Tools used
 ##### Jupyter Notebook
 * Python Version: 3.6.5
 * Pandas Version: 0.23.0
+
+##### Python Libraries Used
+*  pandas 
+* matplotlib
+* seaborn
 
 #### Bhusiness Questions
 ##### Three business questions were imposed: 
