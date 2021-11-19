@@ -1,3 +1,4 @@
+
 ### DSND_Project1_Seattle_AirBnB
 
 #### This Project is dedicated for the Data Scientist Nano Degree | Udacity 
@@ -19,10 +20,10 @@ The dataset was retrieved from Kaggle (https://www.kaggle.com/airbnb/seattle)
 * Pandas Version: 0.23.0
 
 #### Bhusiness Questions
-Three business questions were imposed: 
-What neighbourhood got the highest price?
-Is there a relationship between the (guest includedand) and the (rent price)?
-does not verify the customer identity by picture and phone will affect the renting price?
+##### Three business questions were imposed: 
+* What neighbourhood got the highest price?
+* Is there a relationship between the (guest includedand) and the (rent price)?
+* Does not verify the customer identity by picture and phone will affect the renting price?
 
 
-Project Link : https://github.com/Arwan90/DSND_Project1_Seattle_AirBnB.git
+###### Project Link :  https://github.com/Arwan90/DSND_Project1_Seattle_AirBnB.git
