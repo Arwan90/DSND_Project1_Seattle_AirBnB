@@ -32,3 +32,4 @@ Seattle Airbnb | The dataset was retrieved from Kaggle (https://www.kaggle.com/a
 
 
 ###### Project Link :  https://github.com/Arwan90/DSND_Project1_Seattle_AirBnB.git
+###### Medium Post : https://medium.com/@rawanalmakinah/analyzing-seattle-airbnb-dataset-using-python-libraries-5b8dd1801fe3
