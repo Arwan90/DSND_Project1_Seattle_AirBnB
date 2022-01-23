@@ -43,6 +43,7 @@ After analyzing Seattle Airbnb Dataset and imposing three business questions, we
 
 #### Acknowledgment 
 A big thanks to Udacity and Misk Academy for giving me the opportunity to learn, explore and use some data science-related skills.
+Also, the appreciation goes to kaggle for offering the dataset.
 
 
 #### Useful Resources
