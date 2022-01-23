@@ -28,7 +28,7 @@ Seattle Airbnb | The dataset was retrieved from Kaggle (https://www.kaggle.com/a
 ##### Three business questions were imposed: 
 * What neighbourhood got the highest price?
 * Is there a relationship between the (guest includedand) and the (rent price)?
-* Does not verify the customer identity by picture and phone will affect the renting price?
+* will hosts provide lower renting price if they make it mandatory for customers to verify their identity by picture or phone?
 
 
 ###### Project Link :  https://github.com/Arwan90/DSND_Project1_Seattle_AirBnB.git
